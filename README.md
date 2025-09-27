@@ -83,7 +83,6 @@ The desired state is **Tier 4: Adaptive**, where cybersecurity practices are ful
 
 ## Conclusion
 MediSure Health’s current cybersecurity posture is insufficient for protecting sensitive patient records and meeting HIPAA requirements. By following the roadmap, the organization can evolve from an ad hoc, reactive approach to a proactive, adaptive cybersecurity culture that protects patients, complies with regulations, and sustains trust in its healthcare services.
-"""
-HIPAA Asset Inventory & Compliance Checker
+
 Author: James Murray Good
 
